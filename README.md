@@ -1,0 +1,2 @@
+# Inheritance
+Belajar Inheritance
